@@ -1,1 +1,1 @@
-# polynomial-cpp
+Operations with polynomials (+,-,/,*)
