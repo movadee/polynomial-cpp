@@ -1,1 +1,1 @@
-The task is to analyze climate data from http://climate.weather.gc.ca. Function analyzes CSV files as used by Environment Canada for monthly reporting historic weather data
+Eliminates consecutive duplicate lines and sorts file with name src line by line in lexicographic order and writes the result to file with name dst
